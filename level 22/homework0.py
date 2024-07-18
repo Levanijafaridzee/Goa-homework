@@ -22,9 +22,9 @@
 #4.დავალება
 
 
-def print_list(lister):
-    list_string = ['nika','gio','saba']
-    return_len = len(list_string)
-    print(return_len)
+# def print_list(lister):
+#     list_string = ['nika','gio','saba']
+#     return_len = len(list_string)
+#     print(return_len)
 # #5.davaleba
 
